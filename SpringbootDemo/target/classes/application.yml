@@ -1,0 +1,22 @@
+server:
+  #服务器端口
+  port: 8080
+spring:
+  #数据库
+  datasource:
+    #数据库地址
+    url: jdbc:mysql://localhost:3306/springboot_demo?useSSL=false
+    #数据库用户名
+    username: root
+    #数据库密码
+    password: zallz4008161808*%&
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  jpa:
+    database: mysql
+    show-sql: true
+
+  #文件配置
+  servlet:
+    multipart:
+      max-file-size: 50MB
+      max-request-size: 50MB
