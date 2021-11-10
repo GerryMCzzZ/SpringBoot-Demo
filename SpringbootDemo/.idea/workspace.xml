@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5201c5b-4191-43e1-bd7e-9d7f467a8dad" name="Default Changelist" comment="" />
+    <list default="true" id="f5201c5b-4191-43e1-bd7e-9d7f467a8dad" name="Default Changelist" comment="init: 项目初始化版本">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +43,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="E:/Zallz/GitHub/Zallz_RecruitStudent_Api/RecruitStudent" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -123,17 +125,46 @@
       <workItem from="1636444626820" duration="3839000" />
       <workItem from="1636449456625" duration="55000" />
       <workItem from="1636449749598" duration="15000" />
+      <workItem from="1636449774225" duration="481000" />
+      <workItem from="1636450275190" duration="37000" />
+      <workItem from="1636506903945" duration="3116000" />
+      <workItem from="1636526579247" duration="2119000" />
     </task>
+    <task id="LOCAL-00001" summary="init: 项目初始化版本">
+      <created>1636450061933</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1636450061933</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init: 项目初始化版本" />
+    <option name="LAST_COMMIT_MESSAGE" value="init: 项目初始化版本" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="254" y="81" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1636440591415">
+    <state x="254" y="81" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1636507772920">
       <screen x="0" y="0" width="1600" height="852" />
     </state>
-    <state x="254" y="81" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.852@0.0.1600.852" timestamp="1636440591415" />
+    <state x="254" y="81" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.852@0.0.1600.852" timestamp="1636507772920" />
     <state x="605" y="136" key="#com.intellij.ide.util.MemberChooser" timestamp="1636440018342">
       <screen x="0" y="0" width="1600" height="852" />
     </state>
@@ -146,10 +177,18 @@
       <screen x="0" y="0" width="1600" height="852" />
     </state>
     <state x="530" y="173" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.852@0.0.1600.852" timestamp="1636443968487" />
-    <state x="580" y="115" key="FileChooserDialogImpl" timestamp="1636449510459">
+    <state x="300" y="18" key="CommitChangelistDialog2" timestamp="1636515297625">
       <screen x="0" y="0" width="1600" height="852" />
     </state>
-    <state x="580" y="115" key="FileChooserDialogImpl/0.0.1600.852@0.0.1600.852" timestamp="1636449510459" />
+    <state x="300" y="18" key="CommitChangelistDialog2/0.0.1600.852@0.0.1600.852" timestamp="1636515297625" />
+    <state x="152" y="73" width="1280" height="707" key="DiffContextDialog" timestamp="1636518083247">
+      <screen x="0" y="0" width="1600" height="852" />
+    </state>
+    <state x="152" y="73" width="1280" height="707" key="DiffContextDialog/0.0.1600.852@0.0.1600.852" timestamp="1636518083247" />
+    <state x="580" y="115" key="FileChooserDialogImpl" timestamp="1636527921661">
+      <screen x="0" y="0" width="1600" height="852" />
+    </state>
+    <state x="580" y="115" key="FileChooserDialogImpl/0.0.1600.852@0.0.1600.852" timestamp="1636527921661" />
     <state width="1557" height="180" key="GridCell.Tab.0.bottom" timestamp="1636447570304">
       <screen x="0" y="0" width="1600" height="852" />
     </state>
@@ -186,9 +225,13 @@
       <screen x="0" y="0" width="1600" height="852" />
     </state>
     <state x="301" y="2" key="SettingsEditor/0.0.1600.852@0.0.1600.852" timestamp="1636449808593" />
-    <state x="480" y="250" key="com.intellij.ide.util.TipDialog" timestamp="1636449774708">
+    <state x="392" y="159" key="Vcs.Push.Dialog.v2" timestamp="1636515314389">
       <screen x="0" y="0" width="1600" height="852" />
     </state>
-    <state x="480" y="250" key="com.intellij.ide.util.TipDialog/0.0.1600.852@0.0.1600.852" timestamp="1636449774708" />
+    <state x="392" y="159" key="Vcs.Push.Dialog.v2/0.0.1600.852@0.0.1600.852" timestamp="1636515314389" />
+    <state x="480" y="250" key="com.intellij.ide.util.TipDialog" timestamp="1636526583245">
+      <screen x="0" y="0" width="1600" height="852" />
+    </state>
+    <state x="480" y="250" key="com.intellij.ide.util.TipDialog/0.0.1600.852@0.0.1600.852" timestamp="1636526583245" />
   </component>
 </project>
